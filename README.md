@@ -20,3 +20,9 @@ This Application uses browser local storage to store and retrieve the marked loc
 
 
 3 : Uses browser local storage for store and retrive data even after reload
+
+
+####### Architecture
+
+
+![Mapty-architecture-final](https://user-images.githubusercontent.com/25036043/144705689-59934182-1064-436a-8261-294d5211e1eb.png)
